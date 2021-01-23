@@ -91,7 +91,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
     <summary>设置QQ邮箱</summary>
 <br>
 
-在`设置>账户>POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务`下，开启`POP3/SMTP服务`
+在`设置>账户>POP3/IMAP/SMTP/Exchange/CardDAV/CalDAV服务`下，开启`POP3/SMTP服务`,
 
 ![qq邮箱配置01](https://s2.ax1x.com/2020/01/31/13cIKA.png "qq邮箱配置01")
 
